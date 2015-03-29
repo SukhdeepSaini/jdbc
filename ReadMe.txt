@@ -1,0 +1,1 @@
+Examples describing use of JDBC driver to access data from database like MYSQL, HSQLDB and how to handle exceptions.
